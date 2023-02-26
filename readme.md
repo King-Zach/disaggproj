@@ -25,11 +25,11 @@ some key features are:
 
 ### Data Visualization:
 ---
-![alt text](images\newplot.png "timeseries beahviour of total consumption")
+![alt text](images/newplot.jpg "timeseries beahviour of total consumption")
 
-![alt text](images\univariate.png "univariate analysis plots")
+![alt text](images/univariate.jpg "univariate analysis plots")
 
-![alt text](images\totalenergydistplot.png "total energy consumption distribution plot")
+![alt text](images/totalenergydistplot.jpg "total energy consumption distribution plot")
 
 ### Data Modelling
 Tried sklearn's regressors and got following scores:
